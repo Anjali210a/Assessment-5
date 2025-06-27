@@ -4,7 +4,7 @@ A real-time cryptocurrency tracker app that displays prices and market trends us
 
 ---
 
-#Output 
+# Output 
 ![](frontend/crypto_dashboard_mockup.png)
 
 ## Tech Stack
