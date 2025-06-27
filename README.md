@@ -12,6 +12,10 @@ A real-time cryptocurrency tracker app that displays prices and market trends us
 - Backend: Node.js + Express.js
 - API Source: CoinGecko
 
+---
+
+![](frontend/Screenshot_20250627_234128.png)
+
 ## How to Run
 
 1. Install dependencies:
