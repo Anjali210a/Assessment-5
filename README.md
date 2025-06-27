@@ -2,6 +2,11 @@
 
 A real-time cryptocurrency tracker app that displays prices and market trends using the CoinGecko API.
 
+---
+
+#Output 
+![](frontend/crypto_dashboard_mockup.png)
+
 ## Tech Stack
 - Frontend: Vue.js + HTML
 - Backend: Node.js + Express.js
